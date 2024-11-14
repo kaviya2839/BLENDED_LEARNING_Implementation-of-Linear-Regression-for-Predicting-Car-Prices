@@ -1,5 +1,5 @@
 # BLENDED_LEARNING
-# Implementation-of-Linear-Regression-for-Predicting-Car-Prices
+# EXP-01 Implementation-of-Linear-Regression-for-Predicting-Car-Prices
 ## AIM:
 To write a program to predict car prices using a linear regression model and test the assumptions for linear regression.
 
