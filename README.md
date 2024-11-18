@@ -1,4 +1,3 @@
-# BLENDED_LEARNING
 # EXP-01 Implementation  of Linear Regression for Predicting Car Prices
 
 ## AIM:
